@@ -19,7 +19,7 @@ Locomarine Yachtrouter installed File Versions.zip
   needed for further Analysis and different exercises during training
    
 Demo-Trace1.pcapng = exercise 1 
-Demo-Trace1.pcapng = exercise 2 
+Demo-Trace2.pcapng = exercise 2 
 - files needed for Network Traffic analysis
 
 by Obiwan666
