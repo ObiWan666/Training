@@ -1,0 +1,7 @@
+Wireshark		https://www.wireshark.org/#download
+or tcpdump		http://www.tcpdump.org/
+	
+iLSpy			https://github.com/icsharpcode/ILSpy/releases
+ReSharper		https://www.jetbrains.com/resharper/		(30day demo)
+.Net Reflector		https://www.red-gate.com/products/dotnet-development/reflector/	(30day demo)
+Ghidra			https://ghidra-sre.org/
