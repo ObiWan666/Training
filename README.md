@@ -18,8 +18,8 @@ Locomarine Yachtrouter installed File Versions.zip
   These are the files contained after installation in "C:\Programm Files (X86)\Locomarine"
   needed for further Analysis and different exercises during training
    
-Demo-Trace1.pcapng = exercise 1
-Demo-Trace1.pcapng = exercise 2
+Demo-Trace1.pcapng = exercise 1 
+Demo-Trace1.pcapng = exercise 2 
 - files needed for Network Traffic analysis
 
 by Obiwan666
